@@ -205,7 +205,7 @@ Through this project, I gained practical experience in:
 
 **Areege Kassab**
 
-M.Sc. Researcher in Agricultural Biotechnology | Aspiring Bioinformatics & Data Science Professional
+Researcher in Environmental Biotechnology
 
 GitHub: [@areege10](https://github.com/areege10)
 
